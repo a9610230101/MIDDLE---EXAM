@@ -1,0 +1,17 @@
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe.config
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.pdb
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.exe
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.pdb
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe.config
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.exe
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.pdb
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.pdb
+C:\Users\Red1i1i1\Desktop\A107222015_discount-20181120T145905Z-001\A107222015_discount\A107222015_discount\obj\Debug\discount.csprojResolveAssemblyReference.cache
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe.config
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.exe
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.pdb
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.pdb
+C:\Users\Red1i1i1\Desktop\A107222011_折扣商店\A107222015_discount\A107222015_discount\obj\Debug\discount.csprojResolveAssemblyReference.cache

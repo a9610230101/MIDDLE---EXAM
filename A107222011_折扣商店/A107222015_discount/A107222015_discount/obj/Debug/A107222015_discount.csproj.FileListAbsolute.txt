@@ -1,0 +1,6 @@
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe.config
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.exe
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\bin\Debug\A107222015_discount.pdb
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.csprojResolveAssemblyReference.cache
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.exe
+C:\Users\shcd2\Desktop\A107222015_discount\A107222015_discount\obj\Debug\A107222015_discount.pdb

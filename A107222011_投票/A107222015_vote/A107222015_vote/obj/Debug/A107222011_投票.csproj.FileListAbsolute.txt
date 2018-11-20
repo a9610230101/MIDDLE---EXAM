@@ -1,0 +1,8 @@
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\bin\Debug\A107222015_vote.exe.config
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\bin\Debug\A107222015_vote.exe
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\bin\Debug\A107222015_vote.pdb
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\obj\Debug\A107222015_vote.vote.resources
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\obj\Debug\A107222015_vote.Properties.Resources.resources
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\obj\Debug\A107222011_投票.csproj.GenerateResource.Cache
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\obj\Debug\A107222015_vote.exe
+C:\Users\Red1i1i1\Desktop\A107222015_vote-20181120T145453Z-001\A107222015_vote\A107222015_vote\obj\Debug\A107222015_vote.pdb
